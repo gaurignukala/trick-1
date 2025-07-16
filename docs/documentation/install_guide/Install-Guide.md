@@ -254,7 +254,7 @@ Then enter the path to llvm (and udunits) when you execute the configure command
 e.g.
 ```bash
 # For Apple Silicon Macs, you may need to configure as following if Trick configure can't find packages:
-./configure --with-llvm=/opt/homebrew/opt/llvm --with-udunits=/opt/homebrew --with-hdf5==/opt/homebrew
+./configure --with-llvm=/opt/homebrew/opt/llvm --with-udunits=/opt/homebrew --with-hdf5=/opt/homebrew
 ```
 
 
